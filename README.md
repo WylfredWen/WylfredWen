@@ -88,10 +88,10 @@ Hello! I'm Wylfred Wen ☕
 -->
 
 <h3 align="left">
-  💻 Check out my projects: <a href="https://github.com/stars/JiayuanWen/lists/computer-projects">Projects</a>
+  💻 Check out my projects: <a href="https://github.com/stars/WylfredWen/lists/computer-projects">Projects</a>
 </h3>
 <h3 align="left">
-  💻 Check out my experiments: <a href="https://github.com/stars/JiayuanWen/lists/experimentation">Experiments</a>
+  💻 Check out my experiments: <a href="https://github.com/stars/WylfredWen/lists/experimentation">Experiments</a>
 </h3>
 
 <br/>
