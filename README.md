@@ -10,7 +10,7 @@ Hello! I'm Wylfred Wen ☕
 
 <!-- ========================= Self Desc =========================-->
 <p align="left">
-  Full-stack developer at Happy Cashier Inc, graduated from Pennsylvania State University with a B.S. in Computer Science. VR/AR enthusiast. Love Art and Filmmaking. Huge fan of Half-Life, still waiting for Gabe to solve 1+2.
+  Full-stack developer at Happy Cashier Inc, graduated from Pennsylvania State University with a B.S. in Computer Science. Love Art and Filmmaking. Huge fan of IMAX 70mm, Portal, and Half-Life.
 </p>
 
 <!--
